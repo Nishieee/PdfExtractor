@@ -9,7 +9,7 @@ This repository contains the implementation of **Assignment 2**: a PDF extractio
 ## Data Flow and Architecture
 Below is an overview of the data flow and ETL architecture used in the project:
 
-![Airflow ETL and Data Flow Architecture](./images/airflow_etl_and_data_flow_architecture.png)
+![Airflow ETL and Data Flow Architecture](./Architecture_Diagram/images/airflow_etl_and_data_flow_architecture.png)
 
 ## Problem Statement
 The primary goal is to automate the extraction and processing of text from PDF files, making it easily accessible for querying and analysis. The project reduces the need for manual data extraction, enhancing efficiency and user interaction.
